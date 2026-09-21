@@ -1,2 +1,3 @@
-# odat-feedback
-Feedback for odat.ch: report problems, suggest improvements, and ask questions about the services.
+This repository is for feedback and updates about [odat.ch](https://www.odat.ch/).
+
+Please do not include personal or confidential information in issues or discussions.
